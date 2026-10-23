@@ -1,0 +1,7 @@
+{
+  "tomato": {"sow": "Jun-Jul, Nov-Dec", "harvest": "70-90 days after transplanting", "water": "every 2-3 days", "soil": "loamy, well-drained"},
+  "rice":   {"sow": "Jun-Jul (kharif)", "harvest": "Oct-Nov", "water": "keep 5 cm standing water", "soil": "clay loam"},
+  "ragi":   {"sow": "Jun-Jul", "harvest": "Oct-Nov", "water": "every 7-10 days", "soil": "red loam"},
+  "maize":  {"sow": "Jun-Jul, Oct-Nov", "harvest": "90-110 days", "water": "every 5-7 days", "soil": "well-drained loam"},
+  "chilli": {"sow": "Jun-Jul, Sep-Oct", "harvest": "75-90 days after transplanting", "water": "every 4-5 days", "soil": "sandy loam"}
+}

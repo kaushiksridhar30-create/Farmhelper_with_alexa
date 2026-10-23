@@ -1,0 +1,4 @@
+{
+  "_note": "MOCK demo data in INR per quintal. Swap with Agmarknet API for production.",
+  "tomato": 2200, "rice": 2300, "ragi": 3846, "maize": 2090, "chilli": 12000
+}

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Farm Helper MCP Server (Alexa+ track)
 Voice-first farming assistant exposed as an MCP server (Streamable HTTP).
 
@@ -17,3 +18,6 @@ python test_client.py     # in a second terminal
 ## Deploy
 Any host that runs Python (Render, Railway, EC2). Expose `/mnt`-free HTTPS URL ending in `/mcp`.
 "# Farmhelper_with_alexa" 
+=======
+# Farmhelper_with_alexa
+>>>>>>> 521ae8f265ee4d5a3c1115a43d7a8f809e40721b
